@@ -1,0 +1,4 @@
+repository "My project@VTC_unity2d@cloud"
+  path "/"
+    br "/main"
+    co "/main"
